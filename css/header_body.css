@@ -210,4 +210,8 @@ grid-column: 3 / 4; /* Розміщує цей елемент у третій (�
       margin: 5px;
       padding: 5px;  
     }
+    #lang-buttons {
+        gap: 5px;
+    }
 }
+
